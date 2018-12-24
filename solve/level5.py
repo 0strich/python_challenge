@@ -1,17 +1,17 @@
 from pickle import *
-from urllib2 import *
+from urllib.request import *
 
 url = 'http://www.pythonchallenge.com/pc/def/banner.p'
-req = Request(url)
-fo = urlopen(req)
+response = urlopen(url)
 
 with open('../peak.txt','w') as peak:
-    peak.write(fo.read())
+    peak.write(response.read().decode())
 
 with open('../peak.txt','rb') as load_file:
         data = load(load_file)
 
-list_len = len(data)
-print(len(data))
+for i in data:
+    for j in i:
+        print(j[0] * j[1], end='')
+    print('', end='\n')
 
-fo.close()
