@@ -4,6 +4,6 @@
 Solving python challenge level0
 
 ## Level0 
-![](/Users/ostrich/Downloads/git/python_challenge/solve/level0/calc.jpg 'Hint: try to change the URL
+![](https://github.com/0strich/python_challenge/tree/master/solve/level0 'Hint: try to change the URL
 address.')
 
