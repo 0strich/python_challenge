@@ -3,7 +3,7 @@
 ## About
 Use map module to solve this problem
 
-## LEVLE1
+## LEVLEL 1
 ![map.jpg](./map.jpg)
 
 everybody thinks twice before solving this.
