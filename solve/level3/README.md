@@ -1,16 +1,15 @@
-# PythonChallenge Level2
+# PythonChallenge Level0
 
 ## About
-You need to use isalpha() to solve this problem.
+You need to use islower() to solve this problem.
 
-## LEVEL 2
-![ocr.jpg](./ocr.jpg)
+## Level 3
+![bodyguard.jpg](./bodyguard.jpg)
 
-recognize the characters. maybe they are in the book, 
-but MAYBE they are in the page source.
+One small letter, surrounded by EXACTLY three big bodyguards on each of its sides.
 
 ## How to solve
-There's a lot of alphabet on page's source code.
+There's a lot of characters on page's source code.
 ```
 <html>
 <head>
@@ -35,14 +34,18 @@ Join us on IRC: irc.freenode.net #pythonchallenge
 <!--
 kAewtloYgcFQaJNhHVGxXDiQmzjfcpYbzxlWrVcqsmUbCunkfxZWDZjUZMiGqhRRiUvGmYmvnJIHEmbT
 MUKLECKdCthezSYBpIElRnZugFAxDRtQPpyeCBgBfaRVvvguRXLvkAdLOeCKxsDUvBBCwdpMMWmuELeG
+ENihrpCLhujoBqPRDPvfzcwadMMMbkmkzCCzoTPfbRlzBqMblmxTxNniNoCufprWXxgHZpldkoLCrHJq
+vYuyJFCZtqXLhWiYzOXeglkzhVJIWmeUySGuFVmLTCyMshQtvZpPwuIbOHNoBauwvuJYCmqznOBgByPw
 ...
 ...
 ...
-UExetgcupdJsrsbhTYULkVBMCPZIEHlLwarcxqTdcfkAmODkhTJZHjKoyGPfpYsHPqHtLOTWGMixunvq
-WXxZueyZjieriCSWGRUwIYKmJFjrvkBReOMmvnkprYWTLWNTvzIHtzEtkIzPRGMPidFbewZnqlhYFeYE
+dCdFLtBQPtFQuCdKOrpndJNUFQIDSbetUKylhSUjcDVtbiQrWMRQhAwGUZyPneCGUjGBBTkLqxLAXXtB
+KfErkDaWMFZZeuqDmXKJEGHyToPUhPphfVhgUZgbIuRAtWnroImpJKqqmEZqeNQCKzhjIkKQHURWLXFw
 PBuijeoTSpsVLaOGuLVjMZXkBvVXwUuHfBihziiavGSYofPNeKsTXruMUumRRPQJzvSzJkKbtSipiqBd
 -->
 ```
-so you need to find alphabet, then you'll see **equality**.
+So you need to find small letter between three capital letter.
 
-http://www.pythonchallenge.com/pc/def/equality.html
+You'll see **linkedlist**.
+
+http://www.pythonchallenge.com/pc/def/linkedlist.php
