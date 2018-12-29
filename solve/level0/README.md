@@ -9,7 +9,7 @@ You need to use python to solve this probelm.
 Hint: try to change the URL address.
 
 ## Solution
-Look at the Pages Code.
+Look at the Page's Source code.
 
 ```
 <html>
