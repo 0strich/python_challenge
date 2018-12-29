@@ -1,12 +1,12 @@
-# PythonChallenge Level4
+# PythonChallenge Level 4
 
 ## About
 You need to use urllib2 module to solve this problem.
 
-## LEVEL 4
+## Problem
 ![chainsaw.jpg](./chainsaw.jpg)
 
-## How to solve
+## Solution
 Look at the page source.
 ```
 <html>
@@ -53,4 +53,5 @@ and the next nothing is 66831
 peak.html
 ```
 
+## Next Level
 http://www.pythonchallenge.com/pc/def/peak.html
