@@ -1,14 +1,14 @@
-# PythonChallenge Level3
+# PythonChallenge Level 3
 
 ## About
 You need to use islower() to solve this problem.
 
-## Level 3
+## Problem
 ![bodyguard.jpg](./bodyguard.jpg)
 
 One small letter, surrounded by EXACTLY three big bodyguards on each of its sides.
 
-## How to solve
+## Solution
 There's a lot of characters on page's source code.
 ```
 <html>
@@ -48,4 +48,5 @@ So you need to find small letter between three capital letter.
 
 You'll see **linkedlist**.
 
+## Next Level
 http://www.pythonchallenge.com/pc/def/linkedlist.php
