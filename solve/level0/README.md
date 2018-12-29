@@ -1,14 +1,14 @@
-# PythonChallenge Level0
+# PythonChallenge Level 0
 
 ## About
 You need to use python to solve this probelm.
 
-## LEVEL 0
+## Problem
 ![calc.jpg](./calc.jpg)
 
 Hint: try to change the URL address.
 
-## How to solve
+## Solution
 Look at the Pages Code.
 
 ```
@@ -37,4 +37,5 @@ Answer is **274877906944**.
 
 Hint says try to change the URL address.
 
+## Next Level
 http://www.pythonchallenge.com/pc/def/274877906944.html
