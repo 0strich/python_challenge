@@ -3,8 +3,7 @@
 ## About
 Solving python challenge level0
 
-<!-- Title -->
-## Level0 
+## LEVEL 0
 ![calc.jpg](./calc.jpg)
 
 Hint: try to change the URL address.
@@ -38,4 +37,3 @@ Answer is 274877906944
 Hint says try to change the URL address
 
 http://www.pythonchallenge.com/pc/def/274877906944.html
-
