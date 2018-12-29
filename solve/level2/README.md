@@ -18,6 +18,6 @@ so you need to save this sentences to file, and find alphabet.
 
 if you do this you'll see this.
 
-linkedlist
+**linkedlist**
 
 http://www.pythonchallenge.com/pc/def/linkedlist.php

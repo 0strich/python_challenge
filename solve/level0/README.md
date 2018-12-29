@@ -1,7 +1,7 @@
 # PythonChallenge Level0
 
 ## About
-Solving python challenge level0
+You need to use python to solve this probelm.
 
 ## LEVEL 0
 ![calc.jpg](./calc.jpg)
@@ -9,7 +9,7 @@ Solving python challenge level0
 Hint: try to change the URL address.
 
 ## How to solve
-Look at the Pages Code
+Look at the Pages Code.
 
 ```
 <html>
@@ -27,13 +27,14 @@ Look at the Pages Code
 
 ```
 
-Imgae's name is calc.jpg
-so you just need to calculate number
+Imgae's name is calc.jpg.
+
+so you just need to calculate number.
 
 2 ^ 38
 
-Answer is 274877906944
+Answer is **274877906944**.
 
-Hint says try to change the URL address
+Hint says try to change the URL address.
 
 http://www.pythonchallenge.com/pc/def/274877906944.html
