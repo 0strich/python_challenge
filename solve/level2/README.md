@@ -1,15 +1,15 @@
-# PythonChallenge Level2
+# PythonChallenge Level 2
 
 ## About
 You need to use isalpha() to solve this problem.
 
-## LEVEL 2
+## Problem
 ![ocr.jpg](./ocr.jpg)
 
 recognize the characters. maybe they are in the book, 
 but MAYBE they are in the page source.
 
-## How to solve
+## Solution
 There's a lot of alphabet on page's source code.
 ```
 <html>
@@ -45,4 +45,5 @@ PBuijeoTSpsVLaOGuLVjMZXkBvVXwUuHfBihziiavGSYofPNeKsTXruMUumRRPQJzvSzJkKbtSipiqBd
 ```
 so you need to find alphabet, then you'll see **equality**.
 
+## Next Level
 http://www.pythonchallenge.com/pc/def/equality.html
