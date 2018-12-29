@@ -1,7 +1,7 @@
-# PythonChallenge Level0
+# PythonChallenge Level 6
 
 ## About
 
-## LEVEL 6
+## Porblem
 
-## How to solve
+## Solution
