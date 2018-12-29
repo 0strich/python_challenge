@@ -3,7 +3,7 @@
 ## About
 You need to use urllib2 module to solve this problem.
 
-## LEVEL 2
+## LEVEL 4
 ![chainsaw.jpg](./chainsaw.jpg)
 
 ## How to solve
