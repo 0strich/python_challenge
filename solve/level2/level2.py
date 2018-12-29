@@ -1,4 +1,4 @@
-f = open('../big.txt','r')
+f = open('../../big.txt','r')
 
 string = ''
 result = ''
