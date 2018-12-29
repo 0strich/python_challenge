@@ -1,4 +1,3 @@
-<!-- Title -->
 # PythonChallenge Level5
 
 ## About
