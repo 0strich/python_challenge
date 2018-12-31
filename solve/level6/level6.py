@@ -1,3 +1,5 @@
-from os import *
+from zipfile import *
 
-system('cat ../channel/90052.txt')
+z_file = zipfile.ZipFile('../../channel')
+print(z_file)
+
