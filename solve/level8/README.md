@@ -1,4 +1,4 @@
-# PythonChallenge Level 7
+# PythonChallenge Level 8
 
 ## About
 You need to use bz2 module to solve this problem.
