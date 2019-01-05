@@ -1,4 +1,4 @@
-f = open('./test.txt','r')
+f = open('./char.txt','r')
 string = ''
 
 for i in f:
